@@ -1,0 +1,9 @@
+default: &default
+  adapter: nats
+  host: localhost:4222
+
+development:
+  <<: *default
+
+test:
+  <<: *default
