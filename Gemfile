@@ -14,7 +14,7 @@ gem 'actionpack',    rails_version
 gem 'bootsnap', '1.4.6',  require: false
 
 gem 'pg',                '1.2.3'
-gem 'puma',              '4.3.3'
+gem 'puma',              '4.3.11'
 gem 'rails_event_store', '0.43.0'
 
 # Messaging
